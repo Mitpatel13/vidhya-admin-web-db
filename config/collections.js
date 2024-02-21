@@ -1,0 +1,22 @@
+module.exports={
+    DOCTORS:'doctors', //setting database name in the new varaiable
+    BOOKINGS:'bookings',
+    USERS:'users',
+    USERSAPPOINTMENT:'usersAppointment',
+    LISTOFITEMS:'listofItems',
+    DOCTORSPAYMENT:'doctorspayment',
+    DOCTORSREVIEW:'doctorsreview',
+    WITHDRAWPAYMENT:'withdraw_payment',
+    DOCTORSDAILYSLOT:'doctorsdailySlot',
+    BANNERCOLLECTION:'banner_collection',
+    ADMIN_COLLECTION:'admin',
+    HOSPITAL_COLLECTION:'hospitals',
+    PHARMACY_COLLECTION:'pharmacy',
+    NURSE_COLLECTION:'nurse',
+    LABS_COLLECTION:'labs',
+    AMBULANCE_COLLECTION:'ambulance',
+    PRODUCT_COLLECTION:'product',
+    EXPIRING_COLLECTION:'expiring',
+    CANCELCOLLECTION:'cancelCollection',
+    SUBSCRIPTION:'subscription'
+}
